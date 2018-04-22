@@ -1,2 +1,2 @@
 ﻿Un premier fichier qui sera modifié.
-modif1
+ -- Ligne ajoutée
