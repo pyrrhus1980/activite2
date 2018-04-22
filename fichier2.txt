@@ -1,1 +1,2 @@
 ﻿Un 2e fichier qui sera modifié également.
+-- Ajout d'une nouvelle ligne
